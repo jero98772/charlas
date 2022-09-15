@@ -1,0 +1,81 @@
+* Charlas
+* interceptar satelite
+
+contar idea
+
+
+Temas a abordar
+Proceso
+Antenas y hardware
+software, algoritmos (hilbert transform) vender pagina para decodificar
+como pescarlo
+narrativa de un satelite
+
+Razon
+dar un salto a mi carrera , para que llegen buenas oportunidades , y conocer españita
+
+Preguntas
+
+Como puedo ir aprendiendo fft,hilbert trasnform
+ve algun problema? O opurtinidad?
+
+
+Propuestas
+
+Charla del aeropuerto
+
+Problemas
+manejos de conceptos y entendimiento del tema
+
+Apt 
+baudios
+Avhrr
+Hptr
+Mirp
+antenas
+fases
+
+Como
+
+Se obtienen los datos, ANTENAS  y como se modulan
+
+
+
+* Conceptos
+* Pasos
+
+Paso 1 localizar el satelite -> gpredict
+Paso 2 conectarse;
+
+2.1 recivir la señal :antena
+
+2.1.1 yagi
+
+2.1.2 quadrifilar (QFH)
+
+2.1.3 dipolo 
+
+2.1.4 dipolo doble
+
+2.1.5 Turnstyle
+
+2.1.6 helicoidal
+
+3.1 hardware para procesar la señal:sdr
+
+3.2 software para procesar la señal gqrx
+
+
+4. Limpiar la señal -> audacity: resamplearla (ya en codigo)
+
+5 decodificar
+
+Hilbert transform
+
+Fft
+
+6 para que interceptar un satelite?
+
+La narrativa de un satelite
+
+

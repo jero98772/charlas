@@ -1,0 +1,7 @@
+* references
+
+https://wiki.unloquer.org/_media/personas/jero98772/orbitando-satelites.pdf
+
+https://github.com/jero98772/Noaa-decoding
+
+https://jero98772.pythonanywhere.com/proyects/noaa.html

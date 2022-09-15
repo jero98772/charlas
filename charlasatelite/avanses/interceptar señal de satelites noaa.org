@@ -1,0 +1,36 @@
+* 0 localizar el satelite
+
+** gpredict
+
+* 4 limpiar la señal
+
+Lo que se hace para limpiar la señal es reducir la  cantidad de samples (en algunos casos para bajar el coste computacional) 
+
+o leyendo el audio como un vector y escojiendo elementos cada n posiciones
+
+* Con audacity
+
+juntando las 2 Ondas con mix sample y luego cambiando los baudios
+
+* FAQ`s
+* Definiciones
+** Sample
+
+un sample es una parte digital de una onda analoga de un audio
+
+** Sample rate
+
+Es la cantidad de samples usadas por segundo en un audio , mientras mas samples mejor calidad va tener el auido y mas espacio va nesesitar
+
+
+** Baudios
+
+Es una medida para la cantidad de caracteres por segundos que  viajan en una trasmisión
+
+** Apt (automatic picture transmission)
+
+La trasmicion automatica de imagen , trasmite la imagen de forma analogia en ondas de radio.
+
+Trasmite a 4160 baudios
+
+
