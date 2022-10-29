@@ -12,17 +12,17 @@ y otras charlas que voy a preparar
 
 ### Screenshots
 
-![1]()
+![1](https://raw.githubusercontent.com/jero98772/charlas/main/misc/1.png)
 
-![2]()
+![2](https://raw.githubusercontent.com/jero98772/charlas/main/misc/2.png)
 
-![3]()
+![3](https://raw.githubusercontent.com/jero98772/charlas/main/misc/3.png)
 
-![4]()
+![4](https://raw.githubusercontent.com/jero98772/charlas/main/misc/4.png)
 
-![5]()
+![5](https://raw.githubusercontent.com/jero98772/charlas/main/misc/5.png)
 
-![6]()
+![6](https://raw.githubusercontent.com/jero98772/charlas/main/misc/6.png)
 
 ### Installing
 
